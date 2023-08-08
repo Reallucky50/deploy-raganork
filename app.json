@@ -48,7 +48,7 @@
             "required": true,
             "value":"off"
         },
-        "BOT_NAME": {
+        "BOT_NAME": {Reallucky-bot
             "description": "Name of AI chatbot",
             "required": true,
             "value":"Raganork"
@@ -63,7 +63,7 @@
             "required": true,
             "value":"private"
         },
-        "SUDO": {
+        "SUDO": {+2348085226501
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
             "value":""
